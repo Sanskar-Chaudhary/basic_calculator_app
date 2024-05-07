@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'calculator_screen.dart'; // Make sure to import the calculator screen
+import 'calculator_screen.dart';
 
 void main() {
   runApp(MyApp());
